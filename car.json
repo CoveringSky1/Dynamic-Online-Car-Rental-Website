@@ -1,0 +1,136 @@
+{
+    "cars": {
+        "Camry": {
+            "category": "sedan",
+            "avaliability": false,
+            "brand": "Toyota",
+            "model": "Camry",
+            "year": 2013,
+            "mileage": 18000,
+            "fuel": "petrol",
+            "seats": 5,
+            "price": 120,
+            "description": "It's good looking, feature rich, rides phenomenally and is ultra-efficient thanks to the hybrid system."
+        },
+        "Rav4": {
+            "category": "suv",
+            "avaliability": true,
+            "brand": "Toyota",
+            "model": "Rav4",
+            "year": 2015,
+            "mileage": 13000,
+            "fuel": "petrol",
+            "seats": 5,
+            "price": 220,
+            "description": "The 2015 Toyota RAV4 is a compact crossover slotting under the midsize Venza. It is available with a 2.5-liter I-4 with 176 hp and 172 lb-ft of torque paired to a six-speed automatic transmission in all-wheel drive configurations."
+        },
+        "Civic": {
+            "category": "sedan",
+            "avaliability": true,
+            "brand": "Honda",
+            "model": "Civic",
+            "year": 2017,
+            "mileage": 11000,
+            "fuel": "petrol",
+            "seats": 5,
+            "price": 180,
+            "description": "The 2017 Honda Civic comes standard with a 158-horsepower, 2.0-liter four-cylinder engine, a six-speed manual transmission and front-wheel drive. Exterior highlights include 16-inch wheels and LED daytime running lights and taillights."
+        },
+        "6": {
+            "category": "sedan",
+            "avaliability": false,
+            "brand": "Mazda",
+            "model": "6",
+            "year": 2019,
+            "mileage": 6000,
+            "fuel": "petrol",
+            "seats": 5,
+            "price": 200,
+            "description": "The Mazda 6 is a front wheel drive 4 door with 5 seats, powered by a 2.5L INLINE 4 engine that has 140 kW of power (at 6000 rpm) and 252 Nm of torque (at 4000 rpm) via a Six-speed Automatic."
+        },
+        "CX9": {
+            "category": "suv",
+            "avaliability": true,
+            "brand": "Mazda",
+            "model": "CX9",
+            "year": 2019,
+            "mileage": 13000,
+            "fuel": "petrol",
+            "seats": 7,
+            "price": 260,
+            "description": "The CX-9 is an all wheel drive 4 door with 7 seats, powered by a 2.5L TURBO 4 engine that has 170 kW of power (at 5000 rpm) and 420 Nm of torque (at 2000 rpm) via a Six-speed Automatic."
+        },
+        "Yaris": {
+            "category": "hatchback",
+            "avaliability": true,
+            "brand": "Toyota",
+            "model": "Yaris",
+            "year": 2018,
+            "mileage": 11500,
+            "fuel": "petrol",
+            "seats": 5,
+            "price": 150,
+            "description": "The Yaris is a front wheel drive 5 door with 5 seats, powered by a 1.3L INLINE 4 engine that has 63 kW of power (at 6000 rpm) and 121 Nm of torque (at 4400 rpm) via a Four-speed Automatic"
+        },
+        "cr-v": {
+            "category": "suv",
+            "avaliability": true,
+            "brand": "Honda",
+            "model": "cr-v",
+            "year": 2020,
+            "mileage": 10000,
+            "fuel": "petrol",
+            "seats": 5,
+            "price": 215,
+            "description": "The CR-V is a front wheel drive 4 door with 5 seats, powered by a 1.5L TURBO 4 engine that has 140 kW of power (at 5600 rpm) and 240 Nm of torque (at 2000 rpm) via a Continuous Variable."
+        },
+        "forester": {
+            "category": "suv",
+            "avaliability": true,
+            "brand": "Subaru",
+            "model": "forester",
+            "year": 2020,
+            "mileage": 9000,
+            "fuel": "petrol",
+            "seats": 5,
+            "price": 230,
+            "description": "The Forester is an all wheel drive 4 door with 5 seats, powered by a 2.5L INLINE 4 engine that has 136 kW of power (at 5800 rpm) and 239 Nm of torque (at 4400 rpm) via a Continuous Variable."
+        },
+        "GT-R": {
+            "category": "super",
+            "avaliability": true,
+            "brand": "Nissan",
+            "model": "GT-R",
+            "year": 2020,
+            "mileage": 3000,
+            "fuel": "petrol",
+            "seats": 4,
+            "price": 500,
+            "description": "The 2020 GT-R's standard twin-turbo 3.8-liter V-6 makes a mighty 565 horsepower. It hooks up to a six-speed automatic transmission and all-wheel drive that conspire to put all that power to the pavement."
+        },
+        "Phantom": {
+            "category": "sedan",
+            "avaliability": false,
+            "brand": "Rolls royce",
+            "model": "Phantom",
+            "year": 2020,
+            "mileage": 2500,
+            "fuel": "petrol",
+            "seats": 5,
+            "price": 600,
+            "description": "The Phantom is a rear wheel drive 4 door with 5 seats, powered by a 6.7L V12 engine that has 420 kW of power (at 5000 rpm) and 900 Nm of torque (at 1700 rpm) via an Eight-speed Automatic."
+        },
+        "Q5": {
+            "category": "suv",
+            "avaliability": true,
+            "brand": "Audi",
+            "model": "Q5",
+            "year": 2018,
+            "mileage": 15000,
+            "fuel": "petrol",
+            "seats": 5,
+            "price": 350,
+            "description": "The base Q5 features 18-inch wheels with chubby tyres, leather trim, a powered tailgate, reversing camera, front and rear parking sensors and Xenon headlamps."
+        }
+    }
+}
